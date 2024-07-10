@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "6684fc13fe14b44cc040c157_6684fc2ffe14b44cc040c160",
+  "id": "Page1_vocab",
+  "unpublishedCollection": {
+    "name": "vocab",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "items",
+        "value": "[]"
+      }
+    ]
+  }
+}
